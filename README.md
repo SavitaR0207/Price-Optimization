@@ -1,3 +1,5 @@
+E-commerce Platform Price Optimization
+
 **Introduction**  
 Price optimization is a fundamental aspect of e-commerce, leveraging historical sales data to identify trends and anomalies in product transactions. The objective is to predict an ideal price point that balances customer purchase likelihood with company profit margins. This project applies various machine learning algorithms to historical data to generate a demand curve, identifying a price that maximizes sales volume and profitability for a given product.
 
